@@ -1,0 +1,8 @@
+// Ignore Environment File
+.env
+
+// Ignore node_modules directory
+node_modules/
+
+// Ignore IDE directories
+.vscode/
