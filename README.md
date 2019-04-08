@@ -25,7 +25,7 @@ nodemon^1.18.10
 `dotenv^7.0.0`
 
 ## Create .env file from template
-`cp env.template .env`
+`cp .env.template .env`
 
 ## Modify package.json
 As necessary, make changes to package.json for package name, description, version, etc.
