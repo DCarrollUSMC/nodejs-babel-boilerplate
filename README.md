@@ -29,3 +29,6 @@ nodemon^1.18.10
 
 ## Modify package.json
 As necessary, make changes to package.json for package name, description, version, etc.
+
+## Start Node
+`npm start`
